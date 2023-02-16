@@ -28,6 +28,12 @@ Contact me: gabriel.passos.dev@gmail.com
 
 ## Deploy
 
+Download
+
+```bash
+  git clone https://github.com/Exploit-py/DirSeeker.git
+```
+
 Install requirements
 
 ```python
