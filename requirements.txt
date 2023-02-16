@@ -1,0 +1,4 @@
+pyfiglet==0.7
+colorama
+aiohttp
+argparse
