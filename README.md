@@ -12,7 +12,7 @@ Any misuse and unauthorized use of this code is considered a crime, any misuse /
 
 ## Suport
 
-Contact me: gabriel.passos.dev@gmail.com
+Contact me: 𝐦𝐚𝐢𝐧.𝐩𝐲#3503
 
 # Screenshots
 
