@@ -43,6 +43,7 @@ Install requirements
   pip install -r requirements.txt
 ```
 
+
 Run
 ```python
   python3 DirSeeker.py <host> -w <wordlist>
