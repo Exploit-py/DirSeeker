@@ -12,19 +12,22 @@ Any misuse and unauthorized use of this code is considered a crime, any misuse /
 
 ## Suport
 
-Contact me: 𝐦𝐚𝐢𝐧.𝐩𝐲#3503
+Contact me: .main.cpp
 
 # Screenshots
 
 ## HELP
 
-![App Screenshot](https://cdn.discordapp.com/attachments/933791098827059204/1075890226557366463/image.png)
+![App Screenshot](https://cdn.discordapp.com/attachments/933791098827059204/1135648711964364800/image.png)
 
-## Running
-![App Screenshot](https://cdn.discordapp.com/attachments/933791098827059204/1075890491599622324/image.png)
+## Running with Anchors in Wordlist
+![App Screenshot](https://cdn.discordapp.com/attachments/933791098827059204/1135649429228097536/image.png)
+
+## Running without Anchors in Wordlist
+![App Screenshot](https://cdn.discordapp.com/attachments/933791098827059204/1135649714746949782/image.png)
 
 ## Verbose
-![App Screenshot](https://cdn.discordapp.com/attachments/933791098827059204/1075890827383025808/image.png)
+![App Screenshot](https://cdn.discordapp.com/attachments/933791098827059204/1135650044394086470/image.png)
 
 ## Deploy
 
@@ -42,12 +45,12 @@ Install requirements
 
 Run
 ```python
-  python3 DirSeeker.py <host> <wordlist>
+  python3 DirSeeker.py <host> -w <wordlist>
 ```
 
 Run with threads
 
 ```python
-  python3 DirSeeker.py <host> <wordlist> -t <threads>
+  python3 DirSeeker.py <host> -w <wordlist> -t <threads>
 ```
 
